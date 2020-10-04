@@ -40,8 +40,4 @@ public class InfoActivity extends AppCompatActivity {
         phoneIntent.setData(phoneUri);
         startActivity(phoneIntent);
     }
-
-    // ***
-    // TODO - Task 3 - Launch the Phone Activity
-    // ***
 }
